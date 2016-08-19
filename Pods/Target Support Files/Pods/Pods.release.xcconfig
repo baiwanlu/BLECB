@@ -1,0 +1,7 @@
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/LLSimpleCamera" "${PODS_ROOT}/Headers/Public/SVHTTPRequest" "${PODS_ROOT}/Headers/Public/SVProgressHUD" "${PODS_ROOT}/Headers/Public/UMengAnalytics" "${PODS_ROOT}/Headers/Public/VIPhotoView"
+LIBRARY_SEARCH_PATHS = "$(PODS_ROOT)/UMengAnalytics/**"
+OTHER_CFLAGS = $(inherited) -isystem "${PODS_ROOT}/Headers/Public" -isystem "${PODS_ROOT}/Headers/Public/LLSimpleCamera" -isystem "${PODS_ROOT}/Headers/Public/SVHTTPRequest" -isystem "${PODS_ROOT}/Headers/Public/SVProgressHUD" -isystem "${PODS_ROOT}/Headers/Public/UMengAnalytics" -isystem "${PODS_ROOT}/Headers/Public/VIPhotoView"
+OTHER_LDFLAGS = -ObjC -l"MobClickLibrary" -l"Pods-LLSimpleCamera" -l"Pods-SVHTTPRequest" -l"Pods-SVProgressHUD" -l"Pods-UMengAnalytics" -l"Pods-VIPhotoView" -l"z" -framework "AVFoundation" -framework "QuartzCore"
+OTHER_LIBTOOLFLAGS = $(OTHER_LDFLAGS)
+PODS_ROOT = ${SRCROOT}/Pods

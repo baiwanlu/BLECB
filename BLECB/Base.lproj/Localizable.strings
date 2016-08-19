@@ -1,0 +1,64 @@
+/* 
+  Localizable.strings
+  BLECB
+
+  Created by Huang Shan on 15/4/23.
+  Copyright (c) 2015年 Huang Shan. All rights reserved.
+*/
+"设备"="Peripherals";
+"平面"="Standard";
+"卫星"="Hybrid";
+"地图定位"="Location";
+"地图"="map";
+"已经连接上，请先断开链接再刷新。"="It is connected, please disconnect the link to refresh.";
+"正在查找中，别刷新太快哦..."="Searching,don't refresh too fast..";
+"设备列表"="Peripherals List";
+"移动电源报警"="Waring";
+"丢失报警"="Lost alarm";
+"找寻手机"="Looking for mobile phone";
+"连接"="Connect";
+"未连接"="Disconnect";
+"已连接"="Connected";
+"正在连接..."="Connecting";
+"设备不支持BLE哦。"="Device does not support BLE.";
+"请打开本机蓝牙"="Please open the Bluetooth";
+"知道了"="OK";
+"设备已断开"="Disconnect";
+"连接失败，请重试。"="Disconnect,please retry!";
+"发送成功"="setting OK!";
+"已保存"="Saved";
+"断开"="Disconnect";
+"寻  物"="Search";
+"设置成功"="Setting OK";
+"拍照"="Take photo";
+"图片预览"="View photo";
+"正在发送请求..."="Sending request...";
+"设置"="setting";
+"免打扰设置"="Distraction-free";
+"关于036Anti-lost"="about 036Anti-lost";
+"该版已经最新了哦"="This version has the latest.";
+"有更新了"="updated";
+"现在去更新"="Now to update";
+"拍照"="Take Photo";
+"定位"="Location";
+"设置"="Setting";
+"正在断开..."="Disconnect...";
+"防盗"="Anti theft";
+"设备名称设置"="Name set";
+"防盗设置"="Security settings";
+"报警距离"="Alarm distance";
+"请到设置菜单栏打开允许自拍器使用摄像头权限。"="Please open the settings menu bar allows the use of camera self timer permissions.";
+"近"="Nearly";
+"中"="Normal";
+"远"="Far";
+"有可用的版本更新"="Available version update";
+"忽略此版本"="Cancel";
+"更新"="Update";
+"此版本已最新"="This version is the latest";
+"正在检查..."="Checking...";
+"请重试..."="Retry...";
+"是否打开免打扰模式?"="Open distraction-free?";
+"打开"="Open";
+"不需要"="NO";
+"免打扰模式已经打开"="Distraction-free Mode";
+"温馨提示:打开免打扰模式将无法接受到报警通知。"="Notice: open the free mode will not be able to accept the alarm notification，Waring push notification will be closed.";

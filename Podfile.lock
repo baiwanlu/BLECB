@@ -1,0 +1,22 @@
+PODS:
+  - LLSimpleCamera (2.2.0)
+  - SVHTTPRequest (0.5)
+  - SVProgressHUD (1.1.3)
+  - UMengAnalytics (3.5.8)
+  - VIPhotoView (0.1)
+
+DEPENDENCIES:
+  - LLSimpleCamera (~> 2.2)
+  - SVHTTPRequest
+  - SVProgressHUD
+  - UMengAnalytics
+  - VIPhotoView (~> 0.1)
+
+SPEC CHECKSUMS:
+  LLSimpleCamera: 360c9647008f3cc8062748dbe7e4ebc7b4fbde04
+  SVHTTPRequest: e358f1e5817d8d28a749c3433e62c6acfed48d51
+  SVProgressHUD: 748080e4f36e603f6c02aec292664239df5279c1
+  UMengAnalytics: 020551718ba37da017bd85ac4c38ffba2774f3ce
+  VIPhotoView: bdc0cf8ddadda754b451869bd3a919e8eb5c11ab
+
+COCOAPODS: 0.35.0
